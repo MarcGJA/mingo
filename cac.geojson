@@ -42969,10 +42969,7 @@
         },
         {
             "type": "Feature",
-            "properties": {
-                "COUNTY_D": "Nevada",
-                "COUNTY_N": "57"
-            },
+            "properties": null,
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
